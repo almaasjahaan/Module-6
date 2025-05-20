@@ -70,4 +70,4 @@ print("Area of a triangle:", t.area())
 ![image](https://github.com/user-attachments/assets/f4d5f2be-34aa-486e-a6ee-bff4e5eb0ff0)
 
 ## Result
-Thus the program to create an abstract class named Shape with an abstract method calculate_area, and implement this method in two subclasses: Rectangle and Circle is executed successfully.
+Thus the program to create an **abstract class** named `Shape` with an **abstract method** `calculate_area`, and implement this method in two subclasses: `Rectangle` and `Circle` is executed successfully.
